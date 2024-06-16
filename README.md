@@ -1,6 +1,6 @@
 ## 👋 Olá, sou o Leonardo Mattos! 
  
- Com uma paixão que une tecnologia e arte, sou formado em Análise de Sistemas e Fotografia pela universidade Estácio de Sá, e estou aprimorando meus conhecimentos realizando pós garduação em Engenharia de Dados na UNICAMP. Essa combinação de disciplinas me permite explorar soluções inovadoras e criativas.
+ Com uma paixão que une tecnologia e arte, sou formado em Análise de Sistemas e Fotografia pela universidade Estácio de Sá, e estou aprimorando meus conhecimentos realizando pós graduação em Engenharia de Dados na UNICAMP. Essa combinação de disciplinas me permite explorar soluções inovadoras e criativas.
 
 
 ## Conecte-se comigo
